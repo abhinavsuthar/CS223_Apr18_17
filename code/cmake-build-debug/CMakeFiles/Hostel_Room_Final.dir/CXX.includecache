@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Dev Files/CLionProjects/Hostel_Room_Final/Admin.cpp
+Admin.h
+D:/Dev Files/CLionProjects/Hostel_Room_Final/Admin.h
+
+D:/Dev Files/CLionProjects/Hostel_Room_Final/Admin.h
+string
+-
+
+D:/Dev Files/CLionProjects/Hostel_Room_Final/DatabaseManager.cpp
+DatabaseManager.h
+D:/Dev Files/CLionProjects/Hostel_Room_Final/DatabaseManager.h
+
+D:/Dev Files/CLionProjects/Hostel_Room_Final/DatabaseManager.h
+string
+-
+iostream
+-
+fstream
+-
+vector
+-
+sstream
+-
+iterator
+-
+
+D:/Dev Files/CLionProjects/Hostel_Room_Final/StaticObjects.cpp
+DatabaseManager.cpp
+D:/Dev Files/CLionProjects/Hostel_Room_Final/DatabaseManager.cpp
+
+D:/Dev Files/CLionProjects/Hostel_Room_Final/Student.cpp
+Student.h
+D:/Dev Files/CLionProjects/Hostel_Room_Final/Student.h
+StaticObjects.cpp
+D:/Dev Files/CLionProjects/Hostel_Room_Final/StaticObjects.cpp
+
+D:/Dev Files/CLionProjects/Hostel_Room_Final/Student.h
+DatabaseManager.h
+D:/Dev Files/CLionProjects/Hostel_Room_Final/DatabaseManager.h
+
+D:/Dev Files/CLionProjects/Hostel_Room_Final/main.cpp
+Student.cpp
+D:/Dev Files/CLionProjects/Hostel_Room_Final/Student.cpp
+Admin.cpp
+D:/Dev Files/CLionProjects/Hostel_Room_Final/Admin.cpp
+

@@ -1,0 +1,3 @@
+D:/Dev Files/CLionProjects/Hostel_Room_Final/cmake-build-debug/CMakeFiles/Hostel_Room_Final.dir
+D:/Dev Files/CLionProjects/Hostel_Room_Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Dev Files/CLionProjects/Hostel_Room_Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
